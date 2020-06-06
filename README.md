@@ -3,4 +3,4 @@ HTML-CSS-JavaScript course by John Hopkins University Coursera
 <br>
 Hosted on : https://kmkar31.github.io/HTML-CSS-JS/
 <br>
-<b>Deep Learning HomePage</b>https://kmkar31.github.io/HTML-CSS-JS/DL%20Website/index.html
+**Deep Learning HomePage :** https://kmkar31.github.io/HTML-CSS-JS/DL%20Website/index.html
