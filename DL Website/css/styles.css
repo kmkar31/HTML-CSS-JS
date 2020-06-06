@@ -201,8 +201,14 @@ footer #Author {
 @media (max-width: 479px) {
 
 	.navbar h1 {
+		margin-left: 5px;
 		padding-top: 5px;
-		font-size: 11vw;
+		font-size: 6vw;
+	}
+
+	.navbar p {
+		padding-top: 10px;
+		font-size: 3vw;
 	}
 
 	#Keras-tile , #Tensorflow-tile , #Pytorch-tile {
